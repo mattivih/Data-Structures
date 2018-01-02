@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab01/Time.cpp
+Time.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab01/Time.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab01/Time.h
+string
+-
+stdio.h
+-
+iostream
+-
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab01/main.cpp
+Time.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab01/Time.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab09/main.cpp
+iostream
+-
+vector
+-
+string
+-
+map
+-
+iterator
+-
+

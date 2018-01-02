@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab11/BinSTree.cpp
+BinSTree.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab11/BinSTree.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab11/BinSTree.h
+iostream
+-
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab11/main.cpp
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+BinSTree.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab11/BinSTree.h
+

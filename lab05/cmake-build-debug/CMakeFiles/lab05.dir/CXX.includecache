@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/lab05/main.cpp
+iostream
+-
+queue.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/lab05/queue.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/lab05/queue.h
+iostream
+-
+

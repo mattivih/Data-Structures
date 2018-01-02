@@ -1,0 +1,70 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/main.cpp
+fcntl.h
+-
+piece.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/piece.h
+position.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.h
+ui.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/ui.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.cpp
+move.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.h
+square.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/square.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/piece.cpp
+piece.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/piece.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/piece.h
+list
+-
+string
+-
+move.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.h
+position.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.cpp
+position.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.h
+iostream
+-
+piece.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/piece.h
+move.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/square.cpp
+square.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/square.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/square.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/ui.cpp
+ui.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/ui.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/ui.h
+string
+-
+position.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/position.h
+move.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/ChessAI/move.h
+

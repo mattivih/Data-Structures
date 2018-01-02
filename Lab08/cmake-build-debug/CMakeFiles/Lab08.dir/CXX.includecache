@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Dynlist.h
+iostream
+-
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Time.cpp
+Time.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Time.h
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Time.h
+string
+-
+stdio.h
+-
+iostream
+-
+
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/main.cpp
+iostream
+-
+list
+-
+vector
+-
+numeric
+-
+Time.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Time.h
+Dynlist.h
+/Users/Matti/Desktop/Sith Empire/PELISOVELLUKSET/C++/Lab08/Dynlist.h
+
